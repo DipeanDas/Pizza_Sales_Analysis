@@ -38,6 +38,8 @@ The dashboard uncovers **key performance metrics, peak demand periods, sales dis
 - **Average Pizzas per Order:** 2.32  
 
 ---
+<img width="1296" height="577" alt="pizza_main_dash" src="https://github.com/user-attachments/assets/adee5791-cf64-4bec-98e4-307fb61a6e97" />
+
 
 ## 📈 Insights from the Dashboard  
 
